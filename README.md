@@ -3,6 +3,8 @@
 
 Welcome to BookShop, an online platform that connects book lovers and bookstores in one convenient place!
 
+Live on: http://abdullah775x-001-site1.etempurl.com/
+
 ## Features
 
 BookShop offers a range of features to enhance the user experience and streamline the book purchasing process. Here are the key features of the application:
